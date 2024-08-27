@@ -53,4 +53,7 @@ def main():
 if __name__ == "__main__":
     main()
 
-# MD5 Hash of password is: 5f4dcc3b5aa765d61d8327deb882cf99 
+      # MD5 Hash of dictionary.txt keywords:
+#     'password': '5f4dcc3b5aa765d61d8327deb882cf99',
+#     '123456': 'e10adc3949ba59abbe56e057f20f883e',
+#     'admin': '21232f297a57a5a743894a0e4a801fc3',
