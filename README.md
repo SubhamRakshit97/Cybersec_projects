@@ -37,8 +37,9 @@ cd your-repo/img_encrypt_decrypt
 ```bash
 pip install pillow cryptography
 ```
-### 3. Network Traffic Monitor
-Description
+## 3. Network Traffic Monitor
+
+### Description
 The Network Traffic Monitor project captures and analyzes network traffic on a local network. It helps in monitoring network activities and identifying potential security issues.
 
 ### Setup
@@ -55,4 +56,19 @@ This project requires Python 3.x and scapy library.
 pip install scapy
 sudo python3 main.py
 ```
-It will ask for you passwprd put it
+It will ask for your system password.
+
+## 4. Hashed Password Cracker
+
+### Description
+The Hashed Password Cracker is a cybersecurity project designed to demonstrate how hashed passwords can be cracked using various techniques. This project includes methods for cracking hashed passwords using brute-force and dictionary attacks. It supports multiple hashing algorithms such as MD5, SHA-1, and SHA-256.
+
+### Setup
+1. **Clone the Repository:**
+
+```bash
+git clone https://github.com/SubhamRakshit97/Cybersec_projects
+cd hashed_password
+```
+2. **Install Dependencies:**
+   This project requires Python 3.x. No additional dependencies are needed as it uses Python's standard library.
