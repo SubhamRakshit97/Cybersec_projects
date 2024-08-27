@@ -8,3 +8,13 @@ INFO:root:{'Source': '192.168.0.43', 'Destination': '99.77.145.104', 'Protocol':
 INFO:root:{'Source': '192.168.0.43', 'Destination': '99.77.145.75', 'Protocol': 17}
 INFO:root:{'Source': '192.168.0.43', 'Destination': '99.77.145.75', 'Protocol': 17}
 INFO:root:{'Source': '99.77.145.75', 'Destination': '192.168.0.43', 'Protocol': 17}
+INFO:root:{'Source': '3.7.13.58', 'Destination': '192.168.0.43', 'Protocol': 6}
+INFO:root:{'Source': '3.7.13.58', 'Destination': '192.168.0.43', 'Protocol': 6}
+INFO:root:{'Source': '192.168.0.43', 'Destination': '3.7.13.58', 'Protocol': 6}
+INFO:root:{'Source': '192.168.0.43', 'Destination': '142.250.182.46', 'Protocol': 17}
+INFO:root:{'Source': '142.250.182.46', 'Destination': '192.168.0.43', 'Protocol': 17}
+INFO:root:{'Source': '142.250.182.46', 'Destination': '192.168.0.43', 'Protocol': 17}
+INFO:root:{'Source': '142.250.182.46', 'Destination': '192.168.0.43', 'Protocol': 17}
+INFO:root:{'Source': '192.168.0.43', 'Destination': '142.250.182.46', 'Protocol': 17}
+INFO:root:{'Source': '192.168.0.43', 'Destination': '142.250.182.46', 'Protocol': 17}
+INFO:root:{'Source': '142.250.182.46', 'Destination': '192.168.0.43', 'Protocol': 17}
