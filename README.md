@@ -5,6 +5,7 @@ This repository contains three projects:
 1. **Caesar Cipher**
 2. **Image Encryption and Decryption**
 3. **Network Traffic Monitor**
+4. **Hashed Password Cracker**
 
 ## 1. Caesar Cipher
 
