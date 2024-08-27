@@ -60,5 +60,6 @@ if __name__ == "__main__":
     print("Image encrypted successfully!")
 
     # Decrypt the image
-    decrypt_image('encrypted_image.bin', key, 'decrypted_image.png')
+    decrypt_image('encrypted_image.bin', key, 'decrypted_image.png') #stored with decrypted_image.png name
     print("Image decrypted successfully!")
+
