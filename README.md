@@ -14,7 +14,7 @@ The Caesar Cipher is a simple substitution cipher where each letter in the plain
 ### Setup
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/SubhamRakshit97/Cybersec_projects
    cd your-repo/caesar_cypher
    ```
 2. **Install Dependencies:**
@@ -29,8 +29,8 @@ This project implements image encryption and decryption using the AES (Advanced 
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo/image_encryption_decryption
+git clone https://github.com/SubhamRakshit97/Cybersec_projects
+cd your-repo/img_encrypt_decrypt
 ```
 2. **Install Dependencies:**
 
@@ -45,12 +45,14 @@ The Network Traffic Monitor project captures and analyzes network traffic on a l
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo/network_traffic_monitor
+git clone https://github.com/SubhamRakshit97/Cybersec_projects
+cd your-repo/network_traffic
 ```
 2. **Install Dependencies:**
 
 This project requires Python 3.x and scapy library.
 ```bash
 pip install scapy
+sudo python3 main.py
 ```
+It will ask for you passwprd put it
